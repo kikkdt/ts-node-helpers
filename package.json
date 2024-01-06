@@ -1,0 +1,24 @@
+{
+	"name": "ts-node-helpers",
+	"version": "1.0.0",
+	"description": "A collection of helper functions for Node.js written in TypeScript.",
+	"main": "index.js",
+	"directories": {
+		"test": "test"
+	},
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"typescript",
+		"node",
+		"helpers"
+	],
+	"author": "kikkdt",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/jest": "^29.5.11",
+		"jest": "^29.7.0",
+		"ts-jest": "^29.1.1"
+	}
+}
